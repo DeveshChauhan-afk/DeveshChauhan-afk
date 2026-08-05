@@ -44,13 +44,3 @@ An AI-powered Digital Public Safety Intelligence Platform that uncovers fraud ne
 An enterprise AI workflow that automatically classifies, prioritizes and routes customer conversations using **Large Language Models** and confidence-based decision making. Designed to reduce manual triage while ensuring reliable routing through intelligent fallback logic.
 
 🔗 Repository: https://github.com/DeveshChauhan-afk/ai-message-router
-
----
-
-## 📫 Connect
-
-📧 **Email**  
-chauhandevesh88@gmail.com
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/devesh-chauhan-a73934323/
