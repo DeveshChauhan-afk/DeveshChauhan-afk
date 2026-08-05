@@ -38,8 +38,6 @@ An AI-powered Digital Public Safety Intelligence Platform that uncovers fraud ne
 
 🔗 Repository: https://github.com/DeveshChauhan-afk/sentinelgraph-ai
 
-<br>
-
 ### 🤖 AI Message Router
 An enterprise AI workflow that automatically classifies, prioritizes and routes customer conversations using **Large Language Models** and confidence-based decision making. Designed to reduce manual triage while ensuring reliable routing through intelligent fallback logic.
 
