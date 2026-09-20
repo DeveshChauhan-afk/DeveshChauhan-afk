@@ -34,18 +34,6 @@ An AI-powered digital public safety platform that transforms complaints into con
 
 ---
 
-### 🤖 AI Message Notification Router
-
-A multimodal AI workflow that processes customer messages and automatically determines how they should be classified and routed.
-
-The system combines **LLM reasoning, OCR, speech recognition, retrieval, confidence-based routing, and validation** to automate message handling while providing reliable fallback logic.
-
-**Tech:** Python • LLMs • Gemini • OCR • Speech Recognition • Retrieval
-
-**Repository:** https://github.com/DeveshChauhan-afk/ai-message-notification-router
-
----
-
 ### 🏨 Hotel Management System
 
 A full-stack hotel management platform designed around a structured backend architecture for managing **rooms, bookings, users, authentication, and administrative operations**.
