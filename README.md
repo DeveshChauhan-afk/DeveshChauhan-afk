@@ -54,7 +54,7 @@ The system uses Flask with a relational database and includes **role-based acces
 
 **Tech:** Python • Flask • MySQL • SQLAlchemy • JWT • Flask-Login
 
-**Repository:** [Add repository link]
+**Repository:** https://github.com/DeveshChauhan-afk/hotel-management-system
 
 ---
 
@@ -66,17 +66,7 @@ The project explores both classical machine learning and neural-network approach
 
 **Tech:** Python • TensorFlow • Scikit-learn • Pandas • Machine Learning
 
-**Repository:** [Add repository link]
-
----
-
-### 💻 DSA Solutions
-
-A collection of solutions and practice work covering fundamental **Data Structures and Algorithms** concepts and interview problems.
-
-Includes problems involving arrays, strings, hashing, binary search, linked lists, trees, graphs, and other core problem-solving patterns.
-
-**Repository:** [Add repository link]
+**Repository:** https://github.com/DeveshChauhan-afk/HARUS-Project
 
 ---
 
