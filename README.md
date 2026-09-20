@@ -116,10 +116,10 @@ The project explores both classical machine learning and neural-network approach
 ## 🤝 Connect With Me
 
 <p>
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/devesh-chauhan-sde/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:chauhandevesh88@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 </p>
